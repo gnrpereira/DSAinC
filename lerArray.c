@@ -8,7 +8,7 @@ void main(){
     int num1[10];
 
     for(i = 0; i < 10; i++){
-        printf("Digite o elemento [%d] do array0: ", i);
+        printf("Digite o elemento [%d] do array: ", i);
         scanf("%d", &num1[i]);
     }
 
