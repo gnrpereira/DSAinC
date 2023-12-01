@@ -3,7 +3,7 @@
 // Criar uma matriz
 int main(){
 
-    int mat1[3][3] = {1,2,3,4,5,6,7,8,9};
+    int mat1[3][3] = {1,2,3,4,5,6,7,8,9}
     /*      3 x 3 = 9 elementos
                 col0 col1 col2
         linha0   1     2    3
