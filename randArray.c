@@ -1,7 +1,7 @@
 #include <time.h>
 
 // Gerar números aleatórios para preencher o array
-void main(){
+int main(){
 
     int i;
     int num1[10];
