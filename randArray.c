@@ -1,8 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
 
-// Gerar números aleatórios para preencher o array
+// Gerar nÃºmeros aleatÃ³rios para preencher o array
 void main(){
 
     int i;

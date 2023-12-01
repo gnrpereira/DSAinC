@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Alterar conteúdo do array
-void main(){
+// Alterar conteï¿½do do array
+int main(){
 
     int i;
     int num1[10];
