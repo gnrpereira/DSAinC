@@ -2,7 +2,7 @@
 
 // Gerar números aleatórios para preencher o array
 // dentro de um intervalo 1 a 99
-void main(){
+int main(){
 
     int i;
     int num1[40];

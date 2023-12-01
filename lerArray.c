@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 // Ler o input dos elementos do array
-void main(){
+int main(){
 
     int i;
     int num1[10];
