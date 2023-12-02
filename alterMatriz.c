@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Criar uma matriz
+// Alterar uma matriz
 int main(){
 
     int i, j;
